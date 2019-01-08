@@ -1,0 +1,14 @@
+{
+  "Localization": {
+    "Reset": "Réinitialiser",
+    "Solved": "Résolu"
+  },
+  "Description": "Exercez votre mémoire avec ce petit jeu de memory.",
+  "Name": "Jeu de memory",
+  "com.elgato.memorygame.tile": {
+    "Name": "Vignette"
+  },
+  "com.elgato.memorygame.reset": {
+    "Name": "Réinitialiser"
+  }
+}

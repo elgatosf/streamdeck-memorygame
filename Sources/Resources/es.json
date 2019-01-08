@@ -1,0 +1,14 @@
+{
+  "Localization": {
+    "Reset": "Restablecer",
+    "Solved": "Solucionado"
+  },
+  "Description": "Entrena la agilidad mental con este sencillo juego de memoria.",
+  "Name": "Juego de memoria",
+  "com.elgato.memorygame.tile": {
+    "Name": "Casilla"
+  },
+  "com.elgato.memorygame.reset": {
+    "Name": "Restablecer"
+  }
+}

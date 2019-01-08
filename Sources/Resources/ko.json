@@ -1,0 +1,14 @@
+{
+  "Localization": {
+    "Reset": "초기화",
+    "Solved": "해결됨"
+  },
+  "Description": "간단한 기억력 게임으로 두뇌를 트레이닝하세요.",
+  "Name": "기억력 게임",
+  "com.elgato.memorygame.tile": {
+    "Name": "타일"
+  },
+  "com.elgato.memorygame.reset": {
+    "Name": "초기화"
+  }
+}

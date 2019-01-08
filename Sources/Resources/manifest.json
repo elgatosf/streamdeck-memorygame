@@ -1,0 +1,60 @@
+{
+  "Actions": [
+    {
+      "Name": "Tile", 
+      "States": [
+        {
+          "Image": "card",
+          "TitleAlignment": "middle", 
+          "FontSize": "16"
+        }
+      ], 
+      "SupportedInMultiActions": false,
+	  "VisibleInActionsList" : false,
+      "UUID": "com.elgato.memorygame.tile"
+    },
+	{
+      "Name": "Reset", 
+      "States": [
+        {
+          "Image": "startover",
+          "TitleAlignment": "middle", 
+          "FontSize": "16"
+        }
+      ], 
+      "SupportedInMultiActions": false,
+	  "VisibleInActionsList" : false,
+      "UUID": "com.elgato.memorygame.reset"
+    }
+  ],
+	"Profiles": [
+		{
+			"Name": "Memory", 
+			"ReadOnly": true,
+			"DeviceType": 0
+		},
+		{
+			"Name": "MemoryMini", 
+			"ReadOnly": true,
+			"DeviceType": 1
+		}
+  ],  
+  "Author": "Elgato", 
+  "CodePathWin": "memorygame.exe", 
+  "CodePathMac": "MemoryGame", 
+  "Description": "Train your brain with this simple memory game.", 
+  "Name": "Memory Game", 
+  "Icon": "card", 
+  "URL": "https://www.elgato.com/gaming/stream-deck", 
+  "Version": "1.2",
+  "OS": [
+    {
+        "Platform": "mac", 
+        "MinimumVersion" : "10.11"
+    },
+    {
+        "Platform": "windows", 
+        "MinimumVersion" : "10"
+    }
+  ]
+}

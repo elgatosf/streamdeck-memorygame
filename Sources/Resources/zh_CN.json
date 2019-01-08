@@ -1,0 +1,14 @@
+{
+  "Localization": {
+    "Reset": "重置",
+    "Solved": "已解决"
+  },
+  "Description": "用这款简单的记忆游戏训练您的大脑。",
+  "Name": "记忆游戏",
+  "com.elgato.memorygame.tile": {
+    "Name": "图块"
+  },
+  "com.elgato.memorygame.reset": {
+    "Name": "重置"
+  }
+}
