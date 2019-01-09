@@ -6,13 +6,16 @@
 
 `MemoryGame` is a fullscreen plugin that lets you play a memory game.
 
-Features:
+
+# Features
 
 - code written in C++
 - cross-platform (macOS, Windows)
 - fullscreen
 - pre-configured profiles
 - localized
+
+![](screenshot.png)
 
 
 # Installation
