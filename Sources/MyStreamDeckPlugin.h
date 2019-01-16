@@ -30,6 +30,8 @@ public:
 	
 	void DeviceDidConnect(const std::string& inDeviceID, const json &inDeviceInfo) override;
 	void DeviceDidDisconnect(const std::string& inDeviceID) override;
+	
+	void SendToPlugin(const std::string& inAction, const std::string& inContext, const json &inPayload, const std::string& inDeviceID) override;
 
 	// Helpers to allow the games to display images / titles or clear the keys
 	void SetTitle(const std::string& inTitle, const std::string& inContext);
