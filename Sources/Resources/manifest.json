@@ -39,6 +39,7 @@
 			"DeviceType": 1
 		}
   ],  
+  "SDKVersion": 2,
   "Author": "Elgato", 
   "CodePathWin": "memorygame.exe", 
   "CodePathMac": "MemoryGame", 
@@ -56,5 +57,9 @@
         "Platform": "windows", 
         "MinimumVersion" : "10"
     }
-  ]
+  ],
+  "Software": 
+    {
+        "MinimumVersion" : "4.1"
+    }
 }
