@@ -284,7 +284,7 @@ bool MemoryGame::LoadIcons()
 	if (!pluginPath.empty())
 	{
 		// load tile icons
-		for (int i = 1; i < 11; i++)
+		for (int i = 1; i < 16; i++)
 		{
 			std::string encodedFile;
 			bool couldLoad = GetEncodedIconStringFromFile(ESDUtilities::AddPathComponent(pluginPath, std::to_string(i) + ".png"), encodedFile);

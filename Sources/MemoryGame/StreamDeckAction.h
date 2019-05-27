@@ -15,6 +15,7 @@
 
 #define kActionNameTile  "com.elgato.memorygame.tile"
 #define kActionNameReset "com.elgato.memorygame.reset"
+#define kActionNameNone "com.elgato.memorygame.none"
 
 class StreamDeckAction 
 {

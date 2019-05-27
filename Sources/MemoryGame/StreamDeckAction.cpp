@@ -22,6 +22,6 @@ StreamDeckAction::StreamDeckAction(const std::string& inContext, const std::stri
 
 bool StreamDeckAction::IsValid() const
 {
-	return !mContext.empty() && !mDeviceId.empty() && (mActionType == kActionNameReset || mActionType == kActionNameTile);
+	return !mContext.empty() && !mDeviceId.empty() && (mActionType == kActionNameReset || mActionType == kActionNameTile || mActionType == kActionNameNone);
 }
 

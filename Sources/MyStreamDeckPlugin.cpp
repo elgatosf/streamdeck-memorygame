@@ -35,9 +35,17 @@ void MyStreamDeckPlugin::KeyUpForAction(const std::string& inAction, const std::
 	if (mGames.find(inDeviceID) != mGames.end())
 	{
 		if (inAction == kActionNameTile)
+		{
 			mGames[inDeviceID]->HandleMemoryTilePressed(inContext);
+		}
 		else if (inAction == kActionNameReset)
+		{
 			mGames[inDeviceID]->InitGame();
+		}
+		else if (inAction == kActionNameNone)
+		{
+			// Nothing to do
+		}
 	}
 }
 
