@@ -3,7 +3,7 @@
     "Reset": "Reset",
     "Solved": "Solved"
   },
-  "Description": "Train your brain with this simple memory game.",
+  "Description": "Keep your brain in shape with this memory card game.",
   "Name": "Memory Game",
   "com.elgato.memorygame.tile": {
     "Name": "Tile"

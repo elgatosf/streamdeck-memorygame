@@ -3,7 +3,7 @@
     "Reset": "リセット",
     "Solved": "解決済み"
   },
-  "Description": "このシンプルなメモリーゲームで脳をトレーニング。",
+  "Description": "このメモリーカードゲームで脳のトレーニング。",
   "Name": "メモリーゲーム",
   "com.elgato.memorygame.tile": {
     "Name": "タイル"

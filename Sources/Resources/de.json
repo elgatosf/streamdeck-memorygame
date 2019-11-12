@@ -3,7 +3,7 @@
     "Reset": "Zurücksetzen",
     "Solved": "Gelöst"
   },
-  "Description": "Trainiere dein Gehirn mit diesem einfachen Memory-Spiel.",
+  "Description": "Halte mit diesem Memory-Spiel dein Gehirn in Form.",
   "Name": "Memory-Spiel",
   "com.elgato.memorygame.tile": {
     "Name": "Feld"

@@ -3,7 +3,7 @@
     "Reset": "Restablecer",
     "Solved": "Solucionado"
   },
-  "Description": "Entrena la agilidad mental con este sencillo juego de memoria.",
+  "Description": "Mantén ágil el cerebro con este juego de memoria con cartas.",
   "Name": "Juego de memoria",
   "com.elgato.memorygame.tile": {
     "Name": "Casilla"

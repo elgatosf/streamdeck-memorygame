@@ -3,7 +3,7 @@
     "Reset": "Réinitialiser",
     "Solved": "Résolu"
   },
-  "Description": "Exercez votre mémoire avec ce petit jeu de memory.",
+  "Description": "Entraînez votre cerveau grâce à ce jeu de cartes de type memory.",
   "Name": "Jeu de memory",
   "com.elgato.memorygame.tile": {
     "Name": "Vignette"
